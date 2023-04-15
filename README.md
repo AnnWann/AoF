@@ -1,0 +1,1 @@
+#Area-Of-Function (AOF)
